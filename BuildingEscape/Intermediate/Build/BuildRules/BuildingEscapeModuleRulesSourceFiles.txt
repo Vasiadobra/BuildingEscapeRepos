@@ -1,0 +1,3 @@
+C:\Users\vasia.DESKTOP-R0LLT0H\Documents\Unreal Projects\Learning\BuildingEscape\Source\BuildingEscape\BuildingEscape.Build.cs
+C:\Users\vasia.DESKTOP-R0LLT0H\Documents\Unreal Projects\Learning\BuildingEscape\Source\BuildingEscape.Target.cs
+C:\Users\vasia.DESKTOP-R0LLT0H\Documents\Unreal Projects\Learning\BuildingEscape\Source\BuildingEscapeEditor.Target.cs
